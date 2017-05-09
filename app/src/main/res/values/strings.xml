@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IPCHILE_JPDA</string>
+    <string name="titulo_app">Bienvenido</string>
+    <string name="boton">ACEPTAR</string>
+    <string name="app_epr1">epr1</string>
+    <string name="app_epe1">epe1</string>
+    <string name="app_epr2">epr2</string>
+    <string name="app_epe2">epe2</string>
+    <string name="app_titulo">Calcular las notas</string>
+    <string name="app_text1">Solemnes:</string>
+    <string name="app_texto1">Solemnes:</string>
+    <string name="app_texto2">Evas:</string>
+    <string name="app_eva1">eva 1</string>
+    <string name="app_eva2">eva 2</string>
+    <string name="app_eva3">eva 3</string>
+    <string name="app_eva4">eva 4</string>
+    <string name="app_promedio">Promedio:</string>
+    <string name="app_promfinal">calculo final</string>
+    <string name="app_total_sol">Total</string>
+    <string name="app_total_eva">Total</string>
+    <string name="EPR1">EPR1</string>
+    <string name="EPE1">EPE1</string>
+    <string name="EPR2">EPR2</string>
+    <string name="EPE2">EPE2</string>
+    <string name="EVA1">EVA1</string>
+    <string name="EVA2">EVA2</string>
+    <string name="EVA3">EVA3</string>
+    <string name="EVA4">EVA4</string>
+    <string name="app_examen">Examen</string>
+    <string name="app_exa">examen</string>
+    <string name="app_datos">Acerca de</string>
+    <string name="app_prom_total">Promedio final</string>
+    <string name="app_nombre">Javier Pérez de Arce G. (JPDA)</string>
+    <string name="app_correo">Skaip.5670@gmail.com</string>
+    <string name="app_prom">Promedio</string>
+</resources>
